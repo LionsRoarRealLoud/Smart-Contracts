@@ -91,4 +91,4 @@ b1.grid( row = 8, column = 1, columnspan = 2)
 b2.grid( row = 9, column = 1, columnspan = 2)
 
 #Static Properties
-master.title('BTRAIN')
+master.title('Roar')
